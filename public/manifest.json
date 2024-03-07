@@ -1,0 +1,22 @@
+{
+    "name": "Code Monarch",
+    "short_name": "Code Monarch",
+    "description": "a Learning platform for developers",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/img/192x192.png",
+            "purpose": "maskable any",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
