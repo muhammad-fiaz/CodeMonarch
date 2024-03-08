@@ -1,3 +1,4 @@
+const withPWA = require('next-pwa');
 
 const withMDX = require('@next/mdx')(
     // Optionally provide remark and rehype plugins
@@ -14,7 +15,6 @@ const withMDX = require('@next/mdx')(
 
     }
 )
-const withPWA = require("next-pwa");
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
